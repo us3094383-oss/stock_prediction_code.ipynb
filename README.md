@@ -26,8 +26,5 @@ Steps
 6. Predict and visualize results
 
 Results
-The model predicts closing prices based on historical features.  
-Below is a sample plot comparing **actual vs predicted** prices:
-
-![Stock Prediction Plot](plot.png)
+It is Mentioned in (Plot.png) & (Result.py)
 
