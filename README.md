@@ -25,6 +25,5 @@ Steps
 5. Train Linear Regression model
 6. Predict and visualize results
 
-Results
-It is Mentioned in (Plot.png) & (Result.py)
+Results are Mentioned in (Plot.png) & (Result.py)
 
